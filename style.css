@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header,
+.one {
+    background-color: #1F2937;
+}
+
+.header a {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.main-text {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.header li,
+.one .text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.button {
+    background-color: #3882F6;
+    color: white;
+    text-align: center;
+    border-style: none;
+    border-radius: 20px; 
+}
+
+.two .title {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.three {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
